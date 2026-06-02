@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Debug / temp HTML exports
+doc*.html
+post*.html
+post*.txt
+*.html
+
+# Zip downloads
+*.zip
+
+# Images folder (large binary files)
+images/
+
+# OS
+.DS_Store
+Thumbs.db
